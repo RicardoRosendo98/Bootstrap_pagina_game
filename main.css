@@ -1,0 +1,45 @@
+.navbar-nav .nav-link.active {
+    color: #fff;
+}
+
+.nav-link {
+    text-align: center;
+}
+
+header img {
+    height: 50px;
+}
+
+header {
+    margin-bottom: 96px;
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+}
+
+section {
+    padding-top: 100px;
+}
+
+section img {
+    height: 12em;
+}
+
+section h1 {
+    margin: 2em 0 1em;
+    text-align: center;
+}
+
+#sobre h2 {
+    border-bottom: 1px solid #ed8c0edc;
+    padding-bottom: 16px;
+}
+
+footer img {
+    width: 30px;
+}
+
+section .card {
+    margin-bottom: 3em;
+}
